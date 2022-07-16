@@ -1,0 +1,150 @@
+div{
+    background-color: cornsilk;
+}
+
+header{
+    font-size:x-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+    padding:10px;
+    margin:auto;
+}
+
+
+.para{
+    display:flex;
+    display: inline;
+    text-align:center;
+    color:blue;
+    margin:30px 10px;
+    padding:0px;
+    display:block;
+    border-style: dotted;
+    border-radius: 4ex;
+    border-color:brown;
+}
+
+.list{
+    color:goldenrod;
+    text-align:center;
+    margin:auto;
+    padding:1px;
+    border: 2px;
+    border-radius: 4ch;
+    border-color:black;
+    border-style: dotted;
+}
+
+.button{
+   color:crimson;
+   text-size-adjust: 30px;
+}
+
+.link{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    border:green;
+    border-width: 15px;
+    border-style:dotted;
+    Margin:30px;
+    Padding:10px;
+}
+
+.abc{
+    text-align:center;
+    border-style:dashed;
+    padding-left:0px;
+    padding-right:0px;
+    border-color:blue;
+}
+
+.list li{
+    display:inline-block;
+    font-size: medium;
+    margin:0px;
+}
+
+.corgi{
+    text-align: center;
+    border-style: dotted;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mustang{
+    text-align:center;
+    border-style:dotted;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.camaro{
+    text-align:center;
+    margin-top: 10px;
+    border-style:dotted;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.chevelle{
+    text-align:center;
+    margin-top:10px;
+    border-style:solid;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.food{
+    text-align:center;
+}
+
+.lasagna{
+    text-align:center;
+    margin:auto;
+    border-style:double;
+    padding:5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pizza{
+    text-align:center;
+    margin-top:20px;
+    padding:10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style:outset;
+}
+
+.kebab{
+    text-align:center;
+    margin-top:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: groove;
+    padding:30px;
+}
+
+.football{
+    text-align:center;
+    margin:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border-style:dotted;
+    border-color:black;
+}
+
+.basketball{
+    text-align:center;
+    margin:10px;
+    font-family:'Times New Roman', Times, serif;
+    border-style:inset;
+    border-color:darkred;
+}
+
+.baseball{
+    text-align:center;
+    margin:10px;
+    display:block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: dashed;
+}
+
+.links{
+    text-align:center;
+    border-style: dotted;
+    font-size: x-large;
+}
